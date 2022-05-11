@@ -1,0 +1,180 @@
+# depslib dependency file v1.0
+1652124678 source:c:\users\agustina bilotta\desktop\abmautos\parcialmascotas\fecha.c
+
+1652134262 source:c:\users\agustina bilotta\desktop\abmautos\parcialmascotas\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1652141016 source:c:\users\agustina bilotta\desktop\abmautos\parcialmascotas\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+
+1652132434 source:c:\users\agustina bilotta\desktop\abmautos\parcialmascotas\color.c
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+
+1652131128 c:\users\agustina bilotta\desktop\abmautos\parcialmascotas\color.h
+
+1652140488 source:c:\users\agustina bilotta\desktop\abmautos\parcialmascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+	"fecha.h"
+	"mascota.h"
+	"servicio.h"
+	"tipo.h"
+	"trabajo.h"
+
+1652126256 c:\users\agustina bilotta\desktop\abmautos\parcialmascotas\fecha.h
+
+1652140436 c:\users\agustina bilotta\desktop\abmautos\parcialmascotas\mascota.h
+	"tipo.h"
+	"color.h"
+
+1652134242 c:\users\agustina bilotta\desktop\abmautos\parcialmascotas\servicio.h
+
+1652129057 c:\users\agustina bilotta\desktop\abmautos\parcialmascotas\tipo.h
+
+1652141058 c:\users\agustina bilotta\desktop\abmautos\parcialmascotas\trabajo.h
+	"fecha.h"
+	"mascota.h"
+	"servicio.h"
+
+1652132240 source:c:\users\agustina bilotta\desktop\abmautos\parcialmascotas\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1652140456 source:c:\users\agustina bilotta\desktop\abmautos\parcialmascotas\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascota.h"
+	"tipo.h"
+	"color.h"
+
+1652274950 source:c:\users\agustina bilotta\desktop\parcialmascotas\color.c
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+
+1652276356 c:\users\agustina bilotta\desktop\parcialmascotas\color.h
+
+1652124678 source:c:\users\agustina bilotta\desktop\parcialmascotas\fecha.c
+
+1652274903 source:c:\users\agustina bilotta\desktop\parcialmascotas\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1652134242 c:\users\agustina bilotta\desktop\parcialmascotas\servicio.h
+
+1652274976 source:c:\users\agustina bilotta\desktop\parcialmascotas\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1652276356 c:\users\agustina bilotta\desktop\parcialmascotas\tipo.h
+
+1652276493 source:c:\users\agustina bilotta\desktop\parcialmascotas\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascota.h"
+	"tipo.h"
+	"color.h"
+
+1652273155 c:\users\agustina bilotta\desktop\parcialmascotas\mascota.h
+	"tipo.h"
+	"color.h"
+
+1652276613 source:c:\users\agustina bilotta\desktop\parcialmascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+	"fecha.h"
+	"mascota.h"
+	"servicio.h"
+	"tipo.h"
+	"trabajo.h"
+
+1652126256 c:\users\agustina bilotta\desktop\parcialmascotas\fecha.h
+
+1652276394 c:\users\agustina bilotta\desktop\parcialmascotas\trabajo.h
+	"fecha.h"
+	"mascota.h"
+	"servicio.h"
+
+1652276394 source:c:\users\agustina bilotta\desktop\parcialmascotas\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+
+1652277717 source:c:\users\agustina bilotta\desktop\bilotta_parcialmascotas\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1652277704 c:\users\agustina bilotta\desktop\bilotta_parcialmascotas\color.h
+
+1652279674 source:c:\users\agustina bilotta\desktop\bilotta_parcialmascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+	"fecha.h"
+	"mascota.h"
+	"servicio.h"
+	"tipo.h"
+	"trabajo.h"
+
+1652126256 c:\users\agustina bilotta\desktop\bilotta_parcialmascotas\fecha.h
+
+1652279674 c:\users\agustina bilotta\desktop\bilotta_parcialmascotas\mascota.h
+	"tipo.h"
+	"color.h"
+
+1652276356 c:\users\agustina bilotta\desktop\bilotta_parcialmascotas\tipo.h
+
+1652134242 c:\users\agustina bilotta\desktop\bilotta_parcialmascotas\servicio.h
+
+1652279674 c:\users\agustina bilotta\desktop\bilotta_parcialmascotas\trabajo.h
+	"fecha.h"
+	"mascota.h"
+	"servicio.h"
+
+1652279918 source:c:\users\agustina bilotta\desktop\bilotta_parcialmascotas\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascota.h"
+	"tipo.h"
+	"color.h"
+
+1652274903 source:c:\users\agustina bilotta\desktop\bilotta_parcialmascotas\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1652274976 source:c:\users\agustina bilotta\desktop\bilotta_parcialmascotas\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1652279771 source:c:\users\agustina bilotta\desktop\bilotta_parcialmascotas\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+
